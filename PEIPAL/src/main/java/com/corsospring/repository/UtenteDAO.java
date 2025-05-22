@@ -1,4 +1,4 @@
-package com.corsospring.dao;
+package com.corsospring.repository;
 
 import com.corsospring.entity.Utente;
 import org.springframework.data.jpa.repository.JpaRepository;
